@@ -69,7 +69,6 @@ color:#b0a49e;
 text-decoration: none;
 }
 
-
 .arrow1 {
 margin-top: 6em;
 width: 5%;
@@ -121,7 +120,6 @@ list-style: decimal;
 font-family: Franklin Gothic, Verdana, Tahoma, sans-serif;
 font-size:1.5em;
 text-align: center;
-width: 200px;
 }
 
 .flex .card-text{
@@ -133,6 +131,10 @@ padding: 1em;
 font-size: .9em;
 }
 
+.flex .card-header{
+max-width: 300px;
+}
+width: 200px;
  .carousel-inner .carousel-item img{
  max-width:40em;
  margin: auto;
