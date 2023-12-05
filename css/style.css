@@ -117,11 +117,11 @@ list-style: decimal;
    background-image: url("../pictures/table_bg.png");
 }
 
-
 .card-header{
 font-family: Franklin Gothic, Verdana, Tahoma, sans-serif;
 font-size:1.5em;
 text-align: center;
+width: 200px;
 }
 
 .flex .card-text{
