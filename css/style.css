@@ -34,12 +34,9 @@ padding: 0.5em;
 
 .card{
  padding: 1em;
-margin: 1.5em auto;
+ margin: 1.5em auto;
 }
 
-ol a{
-text-decoration: none;
-}
 }
 a:link {
 text-decoration: none;
@@ -61,6 +58,7 @@ color: #704e40;
 background-color: #f0e1d5;
 text-decoration: none;
 }
+
 a:focus{
 color: brown;
 text-decoration: none;
@@ -110,8 +108,8 @@ list-style: decimal;
 }
 
 .flex {
-  display: flex;
-  flex-direction: row;
+   display: flex;
+   flex-direction: row;
    flex-wrap: wrap;
    justify-content: space-around;
    align-items: normal;
@@ -127,7 +125,7 @@ text-align: center;
 }
 
 .flex .card-text{
-width: 24.5em;
+width: 200px;
 }
 
 .flex .card-body{
